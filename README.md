@@ -57,8 +57,8 @@ https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 # Installation
 
 ## Clone the Repository
-git clone <your-github-repository-link>
-cd <project-folder>
+git clone https://github.com/guptayuvraj0599/DL-Assignment-Explainable-AI-For-Medical-Image-Triage
+cd DLAssignment_PneumoniaPriorityPrediction
 
 ## Install Required Libraries
 pip install tensorflow keras numpy opencv-python matplotlib scikit-learn seaborn pillow
